@@ -1,0 +1,10 @@
+
+
+Hola
+Como estas
+
+Este es un archivo copiado
+
+sudo su
+
+echo {1..100}
