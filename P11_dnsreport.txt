@@ -1,0 +1,269 @@
+
+Configuración IP de Windows
+
+    smtp.gmail.com
+    ----------------------------------------
+    Nombre de registro  . : smtp.gmail.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 115
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.108
+
+
+    smtp.gmail.com
+    ----------------------------------------
+    Nombre de registro  . : smtp.gmail.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 115
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4003:c05::6d
+
+
+    www.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.2.234
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.10
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.12.42
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.12.74
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.170
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.138
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.194.106
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.194.42
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.6.138
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.6.170
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.234
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.170
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.138
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.170
+
+
+    www.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 110
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:80d::200a
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 110
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:806::200a
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 110
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:817::200a
+
+
+    Nombre de registro  . : www.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 110
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:80c::200a
+
+
+    imap.gmail.com
+    ----------------------------------------
+    Nombre de registro  . : imap.gmail.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.194.78.109
+
+
+    Nombre de registro  . : imap.gmail.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 173.194.78.108
+
+
+    imap.gmail.com
+    ----------------------------------------
+    Nombre de registro  . : imap.gmail.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4003:c02::6d
+
+
+    Nombre de registro  . : imap.gmail.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 111
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4003:c02::6c
+
+
+    evoke-windowsservices-tas.msedge.net
+    ----------------------------------------
+    Nombre de registro  . : evoke-windowsservices-tas.msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 53
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net
+
+
+    Nombre de registro  . : evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 53
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : e-0009.e-msedge.net
+
+
+    Nombre de registro  . : e-0009.e-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 53
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 13.107.5.88
+
+
+    crl4.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : crl4.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 2287
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2287
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    arc.msn.com
+    ----------------------------------------
+    Nombre de registro  . : arc.msn.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 113
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : arc.msn.com.nsatc.net
+
+
+    Nombre de registro  . : arc.msn.com.nsatc.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 113
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.138.119.21
+
+
